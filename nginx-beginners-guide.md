@@ -1,4 +1,4 @@
-# NGINX beginner's guide 
+for # NGINX beginner's guide 
 
 nginx has one master process and worker proceses
 
